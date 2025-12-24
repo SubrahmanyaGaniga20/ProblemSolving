@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
