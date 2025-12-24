@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
