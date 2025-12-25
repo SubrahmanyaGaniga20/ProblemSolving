@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0069-sqrtx) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
