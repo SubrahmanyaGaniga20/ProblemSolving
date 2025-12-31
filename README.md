@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/2574-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SubrahmanyaGaniga20/ProblemSolving/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
